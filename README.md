@@ -80,11 +80,9 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 
 ### 📫 How to reach me
 
-- Email: abhaysagarofficial@gmail.com
-- LinkedIn: [Abhay Sagar](https://www.linkedin.com/in/abhay-sagar-759180289)
-- GitHub: [abhaysagarofficial](https://github.com/abhaysagarofficial)
-- Twitter: [abhaysagarogr](https://x.com/abhaysagarogr)
-- Instagram: [_abhay190_](https://www.instagram.com/_abhay190_/)
+- Email: abhinavsagar3000@gmail.com
+- LinkedIn: [Abhinav Sagar](https://www.linkedin.com/in/abhinav-sagar-a0386031b/)
+- GitHub: [Abhinavsagarr](https://github.com/Abhinavsagarr)
 
 ---
 
