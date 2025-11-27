@@ -73,23 +73,8 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
 #### NeedNear
 *NeedNear* is a startup that aims to bridge the gap between people seeking services and local service providers. We offer a platform that connects users with reliable home cleaning and laundry services in their vicinity. Our goal is to make these essential services easily accessible and convenient for everyone. 
 
-**Key Features:**
-- **User-Friendly Interface:** Easy to navigate and book services.
-- **Verified Service Providers:** Ensuring quality and reliability.
-- **Real-Time Tracking:** Track your service request in real-time.
-- **Secure Payments:** Multiple payment options with secure transactions.
-
-*NeedNear is designed to make your life simpler by bringing trusted services to your doorstep.*
-
 #### MstryMsg [Link](https://github.com/mrkeshav-05/MstryMessage)
 **MstryMsg** is a platform where users can send secret messages to others. Whether you want to share a confidential note, a surprise message, or just have some fun, MstryMsg allows you to communicate anonymously and securely.
-
-**Key Features:**
-- **Anonymous Messaging:** Send messages without revealing your identity.
-- **Secure Encryption:** Ensuring all messages are safely encrypted.
-- **User-Friendly Interface:** Easy to use and navigate.
-
-*With MstryMsg, you can express yourself freely and securely.*
 
 ---
 
