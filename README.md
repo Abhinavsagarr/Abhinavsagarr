@@ -41,6 +41,32 @@ I'm a passionate web developer and a Pre-final year student at the Indian Instit
            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
+# 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavsagarr&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavsagarr&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavsagarr&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavsagarr&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavsagarr&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=abhinavsagarr&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abhaysagarofficial&show_icons=true&hide_title=true&rank_icon=github&theme=radical"> -->
+
+
+
+</div>
+
+</div><br>
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+---
 
 ### 🚀 Projects
 
